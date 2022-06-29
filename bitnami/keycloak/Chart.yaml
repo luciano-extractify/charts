@@ -1,6 +1,6 @@
 annotations:
   category: DeveloperTools
-apiVersion: v2
+apiVersion: v1
 appVersion: 18.0.1
 dependencies:
   - condition: postgresql.enabled
