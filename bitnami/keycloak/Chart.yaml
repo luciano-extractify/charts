@@ -5,7 +5,8 @@ appVersion: 18.0.1
 dependencies:
   - condition: postgresql.enabled
     name: postgresql
-    repository: https://charts.bitnami.com/bitnami
+    #repository: https://charts.bitnami.com/bitnami
+    repository: https://github.com/luciano-extractify/charts/bitnami
     version: 11.6.7
   - name: common
     repository: https://charts.bitnami.com/bitnami
