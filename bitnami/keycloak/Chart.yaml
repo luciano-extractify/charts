@@ -6,7 +6,7 @@ dependencies:
   - condition: postgresql.enabled
     name: postgresql
     #repository: https://charts.bitnami.com/bitnami
-    repository: https://github.com/luciano-extractify/charts/bitnami
+    repository: https://github.com/luciano-extractify/charts/blob/master/bitnami/postgresql
     version: 11.6.7
   - name: common
     repository: https://charts.bitnami.com/bitnami
